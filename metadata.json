@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel A-Share Intelligence",
+  "description": "A comprehensive A-Share market analysis tool tracking Shanghai Composite, CSI 300, ChiNext, and STAR 50 indices using Gemini 2.5 Flash with Google Search grounding.",
+  "requestFramePermissions": []
+}
